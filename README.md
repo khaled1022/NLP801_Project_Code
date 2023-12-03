@@ -21,3 +21,9 @@ File: Fine_tuning.ipynb
 Description: This notebook demonstrates the process of fine-tuning a pre-trained language model for text summarization. 
 Fine-tuning allows the model to adapt to specific summarization tasks by using domain-specific training data. 
 It provides more control over the summarization process and can yield better results for specific use cases.
+
+
+### Preprocessing (preprocessing.ipynb) 
+The preprocessing file includes essential data cleaning and text normalization steps to prepare the raw input data for further analysis,
+ensuring that it is consistent and free from noise.
+This file also handles tasks such as tokenization, stop words, punctuation removal and lower casing, and stemming, streamlining the text data into a format suitable for natural language processing tasks.
