@@ -1,4 +1,4 @@
-# NLP801_Project_Code
+![image](https://github.com/khaled1022/NLP801_Project_Code/assets/152799288/a1a5ae81-2afb-417c-bdec-94b8dffbffb1)# NLP801_Project_Code
 ## Text Summarization Project
 ### Introduction
 This repository contains code for a text summarization project that utilizes two main code files: ZeroShot.ipynb and FineTuning.ipynb. 
@@ -8,8 +8,10 @@ These notebooks are designed to perform various aspects of text summarization us
 Text summarization is the process of generating a concise and coherent summary of a longer document while retaining its main ideas and key information.
 This project aims to demonstrate two different approaches to text summarization: zero-shot summarization and fine-tuning-based summarization.
 
-### Zero-Shot Summarization (ZeroShot.ipynb)
-File: ZeroShot.ipynb
+### Zero-Shot Summarization (Zero_Shot_Approach_Code.ipynb![image](https://github.com/khaled1022/NLP801_Project_Code/assets/152799288/a4de966a-f443-4f6e-b886-fd29ab31ab16)
+)
+File: Zero_Shot_Approach_Code.ipynb![image](https://github.com/khaled1022/NLP801_Project_Code/assets/152799288/7441346e-e303-4bca-bf58-fdcf0c400f68)
+
 Description: This notebook implements a zero-shot text summarization technique. 
 Zero-shot summarization does not require fine-tuning on specific data but instead utilizes pre-trained language models to generate summaries. 
 It's a quick and efficient way to summarize text without the need for extensive training data.
