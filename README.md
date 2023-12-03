@@ -24,6 +24,8 @@ It provides more control over the summarization process and can yield better res
 
 
 ### Preprocessing (preprocessing.ipynb) 
+File: preprocessing.ipynb
+
 The preprocessing file includes essential data cleaning and text normalization steps to prepare the raw input data for further analysis,
 ensuring that it is consistent and free from noise.
 This file also handles tasks such as tokenization, stop words, punctuation removal and lower casing, and stemming, streamlining the text data into a format suitable for natural language processing tasks.
