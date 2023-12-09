@@ -16,7 +16,7 @@ Zero-shot summarization does not require fine-tuning on specific data but instea
 It's a quick and efficient way to summarize text without the need for extensive training data.
 
 ### Fine-Tuning-Based Summarization (Fine_tuning.ipynb)
-File: Fine_tuning.ipynb
+File: Fine_tuning_code.ipynb
 
 Description: This notebook demonstrates the process of fine-tuning a pre-trained language model for text summarization. 
 Fine-tuning allows the model to adapt to specific summarization tasks by using domain-specific training data. 
